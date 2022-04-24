@@ -11,4 +11,4 @@ try to remember as much of the pattern as possible. With every newly generated c
 
 ![Alt Text](https://media.giphy.com/media/a19FYViwx1bWnWlhmP/giphy.gif)
 
-Yields:
+
