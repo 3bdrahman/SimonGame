@@ -8,3 +8,5 @@ just download the project from this repositery and go to the index page it shoul
 try to remember as much of the pattern as possible. With every newly generated color/sound, you'll need to enter the entire sequence again.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/3bdrahman/SimonGame)
+
+<iframe src="https://giphy.com/embed/a19FYViwx1bWnWlhmP" width="480" height="287" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/a19FYViwx1bWnWlhmP">via GIPHY</a></p>
